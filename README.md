@@ -1,3 +1,3 @@
 # otakoidR
 
-The R Package For ploting Riemann Zeta Function using R easily.
+The R Package For plotting Riemann Zeta Function using R easily.
